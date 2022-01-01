@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deusExMac
 - 👀 I’m interested in many things. Coding is one of them
 - 🌱 I’m currently refreshing my knowledge in statistics, machine learning and some other stuff. 
-- 💞️ I’m looking to collaborate on how machine learning algorithms can be used in the field of economics.
+- 💞️ I’m looking to collaborate on how machine learning algorithms can be used in the field of economics, the infrastructure of cryptocurrencies and hypertext.
 - 📫 How to reach me: contact me at tzagara ___//\\__at__/\\\___ upatras. gr
 
 <!---
